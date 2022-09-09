@@ -35,10 +35,9 @@ body {
 
 @media (max-width:500px) {
   .contaner{
-    flex-direction: column-reverse;
-    height: fit-content;
-    width: 350px;
-    margin-top: 150px;
+    flex-direction: column-reverse;    width: 350px;
+    height: 100%;
+    margin-top: 50px;
   }
 
 }
