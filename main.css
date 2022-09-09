@@ -36,7 +36,7 @@ body {
 @media (max-width:500px) {
   .contaner{
     flex-direction: column-reverse;    width: 350px;
-    height: 100%;
+    height: fit-content;
     margin-top: 50px;
   }
 
@@ -136,7 +136,7 @@ body {
   .img-mobile{
     display: block;
     width: 411px;
-
+    height: fit-content;
   }
 }
 
